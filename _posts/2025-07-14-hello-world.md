@@ -1,6 +1,6 @@
 ---
 title: This is a test
-date: 07-14-2025
+date: 2005-07-14
 ---
 
 # This is a test
