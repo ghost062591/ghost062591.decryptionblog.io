@@ -12,7 +12,7 @@ by: Johnathan Allison
 
 
 
-![[assets/photos/microlab.jpg]]
+![assets/photos/microlab.jpg]
 
 # Why?
 
