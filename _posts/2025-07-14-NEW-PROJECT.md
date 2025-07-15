@@ -1,18 +1,14 @@
 ---
-title: New Project Micro Server
-date: "2025-07-14 07:00:00 -0500"
+title: "New Project: Micro Server"
+date: 2025-07-14 07:00:00 -0500
 by: Johnathan Allison
 ---
-
+![[assets/photos/microlab.jpg]]
 # Building A Raspberry Pi Micro Rack
 
 ## Credit goes to CB4D on Makerworld.
 ##### Please visit their page for more information. [Makerworld Post](https://makerworld.com/en/models/1062225-microlab-mini-modular-home-server-rack#profileId-1050648)
 
-
-
-
-![assets/photos/microlab.jpg]
 
 # Why?
 
