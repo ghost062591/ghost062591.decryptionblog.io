@@ -2,8 +2,14 @@
 title: "New Project: Micro Server"
 date: 2025-07-14 07:00:00 -0500
 by: Johnathan Allison
+categories: homelab
+tags:
+  - homelab
+  - proxmox
+  - 3dprint
 ---
-![[assets/photos/microlab.jpg]]
+![photo of final build](assets/photos/microlab.jpg)
+
 # Building A Raspberry Pi Micro Rack
 
 ## Credit goes to CB4D on Makerworld.

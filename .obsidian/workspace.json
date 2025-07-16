@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-07-14-NEW-PROJECT.md",
+                "file": "_posts/2025-07-15-what-a-cluster.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-14-NEW-PROJECT"
+              "title": "2025-07-15-what-a-cluster"
             }
           }
         ]
       },
       {
-        "id": "9cecd5cb7b23c7d1",
+        "id": "8677c34b1e588ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "5dd559c506c6b282",
+            "id": "d09ed51f6d5854f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-07-14-NEW-PROJECT.md",
+                "file": "_posts/2025-07-15-what-a-cluster.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-14-NEW-PROJECT"
+              "title": "2025-07-15-what-a-cluster"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-07-14-NEW-PROJECT.md",
+                "file": "_posts/2025-07-15-what-a-cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-14-NEW-PROJECT"
+              "title": "Backlinks for 2025-07-15-what-a-cluster"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-07-14-NEW-PROJECT.md",
+                "file": "_posts/2025-07-15-what-a-cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-07-14-NEW-PROJECT"
+              "title": "Outgoing links from 2025-07-15-what-a-cluster"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-07-14-NEW-PROJECT.md",
+                "file": "_posts/2025-07-15-what-a-cluster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-14-NEW-PROJECT"
+              "title": "Outline of 2025-07-15-what-a-cluster"
             }
           }
         ]
@@ -188,30 +188,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b9bb7dde086db12",
+  "active": "b8515c339b3c6603",
   "lastOpenFiles": [
-    "_site/sitemap.sync-conflict-20250715-064806-25K6QTM.xml",
-    "_site/about/index.sync-conflict-20250715-064806-25K6QTM.html",
-    "_site/assets/js/data/swconf.sync-conflict-20250715-064806-25K6QTM.js",
-    "_site/assets/js/data/search.sync-conflict-20250715-064806-25K6QTM.json",
-    "_site/posts/NEW-PROJECT/index.sync-conflict-20250715-064806-25K6QTM.html",
-    "_site/assets/photos/microlab.sync-conflict-20250715-064806-25K6QTM.jpg",
-    "_site/tags/index.sync-conflict-20250715-064806-25K6QTM.html",
-    "_site/feed.sync-conflict-20250715-064806-25K6QTM.xml",
-    "_site/index.sync-conflict-20250715-064806-25K6QTM.html",
-    "_site/archives/index.sync-conflict-20250715-064806-25K6QTM.html",
-    "_site/categories/index.sync-conflict-20250715-064806-25K6QTM.html",
-    "_site/posts/NEW-PROJECT/index.sync-conflict-20250715-062405-25K6QTM.html",
-    "assets/photos/microlab.jpg",
+    "_site/assets/photos/Web-development.jpg",
+    "assets/photos/Web-development.jpg",
+    "assets/photos/Web-development.md",
+    "assets/photos/Web-development.png",
+    "_site/posts/how-i-created-this-blog/index.html",
+    "_site/posts/how-i-created-this-blog",
+    "_site/tags/web-development/index.html",
+    "_site/tags/web-development",
+    "_site/tags/computers/index.html",
+    "_site/tags/computers",
+    "_posts/2025-07-15-how-i-created-this-blog.md",
+    "Drafts/2025-07-15-how-i-created-this-blog.md",
+    "Drafts/2025-07-15-how-i-created-he-blog.md",
+    "Drafts/Untitled.md",
+    "Drafts",
+    "Untitled",
+    "_site/posts/what-a-cluster/index.html",
+    "_site/posts/what-a-cluster",
+    "_posts/2025-07-14-what-is-astrophotgraphy.md",
+    "_posts/2025-07-15-what-a-cluster.md",
     "_posts/2025-07-14-NEW-PROJECT.md",
+    "_site/assets/photos/microlab.sync-conflict-20250715-064806-25K6QTM.jpg",
+    "assets/photos/microlab.jpg",
     "_site/assets/photos/microlab.jpg",
     "post-temp.md",
-    "_posts/2025-07-14-what-is-astrophotgraphy.md",
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
     "_site/assets/img/favicons/apple-touch-icon.png",
-    "_site/assets/img/favicons/android-chrome-512x512.png",
-    "_site/assets/img/favicons/android-chrome-192x192.png"
+    "_site/assets/img/favicons/android-chrome-512x512.png"
   ]
 }
