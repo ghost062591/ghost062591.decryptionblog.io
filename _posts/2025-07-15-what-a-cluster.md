@@ -1,10 +1,10 @@
 ---
 title: Building a Blog
-date: 2025-07-15 12:00:00
+date: 2025-07-15 12:00:00 -0400
 by: Johnathan Allison
-categories: homelab
+categories: mind-dump
 tags:
-  - homelab
+  - home lab
   - blogging
 ---
 

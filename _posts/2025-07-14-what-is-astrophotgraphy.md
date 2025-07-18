@@ -1,7 +1,10 @@
 ---
-"title:": What is Astrophotography?
-"date:": 2025-07-14 08:00:00 -0500
-"by:": Johnathan Allison
+title: What is Astrophotography?
+date: 2025-07-14 08:00:00 -0400
+by: Johnathan Allison
+categories: mind-dump
+tags: 
+  - astrophotography
 ---
 
 ## What Actually Does it Mean?

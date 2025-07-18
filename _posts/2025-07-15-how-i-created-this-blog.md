@@ -1,12 +1,15 @@
 ---
 title: Hosting my First Website.
-date: 2025-07-15 16:00:00
+date: 2025-07-15 16:00:00 -0400
 by: Johnathan Allison
-tags: homelab computers blogging web-development 
-categories: homelab
+categories: mind-dump
+tags:
+  - home lab
+  - blogging
+  - servers
 ---
 
-![homelab](assets/photos/Web-development.jpg)
+![homelab](assets/photos/Blog-creation/Web-development.jpg)
 
 # My 20th Attempt For My First Site.
 
