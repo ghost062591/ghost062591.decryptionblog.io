@@ -11,14 +11,10 @@
             "id": "3b9bb7dde086db12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-07-15-what-a-cluster.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-15-what-a-cluster"
+              "title": "New tab"
             }
           }
         ]
@@ -31,14 +27,10 @@
             "id": "d09ed51f6d5854f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-07-15-what-a-cluster.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-15-what-a-cluster"
+              "title": "New tab"
             }
           }
         ]
@@ -190,6 +182,13 @@
   },
   "active": "b8515c339b3c6603",
   "lastOpenFiles": [
+    "_posts/Blog/2025-07-15-what-a-cluster.md",
+    "_posts/Blog/2025-07-15-how-i-created-this-blog.md",
+    "_posts/Blog",
+    "_posts/Mind-Dumps",
+    "_posts/Projects/2025-07-14-NEW-PROJECT.md",
+    "_posts/Projects",
+    "_posts/Astro/2025-07-14-what-is-astrophotgraphy.md",
     "_site/index.html.save",
     "_posts/Astro/2025-07-14-Astrophotography-Beginning.md",
     "_posts/Astro",
@@ -208,16 +207,12 @@
     "assets/photos/New-Project-Micro-Server/Microlab/Micro Server2.jpg",
     "assets/photos/New-Project-Micro-Server/Microlab",
     "_site/posts/Astrophotography-Beginning/index.html",
-    "_site/posts/Astrophotography-Beginning",
-    "_site/Templates/post-temp.html",
-    "_site/Templates",
     "_posts/2025-07-14-Astrophotography-Beginning.md",
     "_posts/post-temp 1.md",
     "Templates/post-temp 1.md",
     "_posts/Untitled.md",
     "Untitled.md",
     "Templates/post-temp.md",
-    "Templates",
     "_posts/2025-07-14-Astrophotography-Begining.md",
     "_posts/Astrophotography.md",
     "Blog/Astrophotography.md",
