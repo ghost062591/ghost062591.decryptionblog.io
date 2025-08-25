@@ -11,26 +11,14 @@
             "id": "3b9bb7dde086db12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/Astro/2025-07-14-what-is-astrophotgraphy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8677c34b1e588ac2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d09ed51f6d5854f8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-14-what-is-astrophotgraphy"
             }
           }
         ]
@@ -172,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,6 +171,7 @@
   },
   "active": "b8515c339b3c6603",
   "lastOpenFiles": [
+    "_posts/Astro/2025-07-14-Astrophotography-Beginning.md",
     "_posts/Blog/2025-07-15-what-a-cluster.md",
     "_posts/Blog/2025-07-15-how-i-created-this-blog.md",
     "_posts/Blog",
@@ -190,7 +180,6 @@
     "_posts/Projects",
     "_posts/Astro/2025-07-14-what-is-astrophotgraphy.md",
     "_site/index.html.save",
-    "_posts/Astro/2025-07-14-Astrophotography-Beginning.md",
     "_posts/Astro",
     "Astro",
     "Untitled",
